@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+	path = redux-example
+	url = https://github.com/ichsnn/redux-example
