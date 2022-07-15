@@ -1,3 +1,15 @@
-[submodule "libfoo"]
+[submodule "context-example"]
+	path = context-example
+	url = https://github.com/ichsnn/context-example
+
+[submodule "redux-example"]
 	path = redux-example
 	url = https://github.com/ichsnn/redux-example
+
+[submodule "state-example"]
+	path = state-example
+	url = https://github.com/ichsnn/state-example
+
+[submodule "zustand-example"]
+	path = zustand-example
+	url = https://github.com/ichsnn/zustand-example
